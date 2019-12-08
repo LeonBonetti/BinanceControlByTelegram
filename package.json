@@ -1,0 +1,30 @@
+{
+  "name": "tradestalker",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "ts-node src/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/LeonBonetti/tradestalker.git"
+  },
+  "author": "Leonardo Bonetti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeonBonetti/tradestalker/issues"
+  },
+  "homepage": "https://github.com/LeonBonetti/tradestalker#readme",
+  "dependencies": {
+    "binance-api-node": "^0.9.9",
+    "firebase-admin": "^8.6.0",
+    "node-telegram-bot-api": "^0.30.0",
+    "sha256": "^0.2.0"
+  },
+  "devDependencies": {
+    "@types/node-telegram-bot-api": "^0.31.1",
+    "ts-node": "^8.4.1",
+    "typescript": "^3.6.4"
+  }
+}

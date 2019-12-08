@@ -1,0 +1,50 @@
+{
+    "0":{
+        "pt": "Desculpe, não entendi",
+        "en": "Sorry, i dont understand"
+    },
+    "1":{
+        "pt": ", eu estou desativado, você tem alguma chave para me ligar?",
+        "en": ", I'm disabled, do you have any keys to call me?"
+    },
+    "2":{
+        "pt": "Desculpe, essa chave não é valida para me ativar",
+        "en": "Sorry, this key is not valid to activate me"
+    },
+    "3":{
+        "pt": "Desculpe, essa chave já foi utilizada",
+        "en": "Sorry, this key was be used"
+    },
+    "4":{
+        "pt": "Ótimo, vou adicionar ",
+        "en": "Great, i will add "
+    },
+    "4.1":{
+        "pt": " dias a sua conta",
+        "en": " days on your account"
+    },
+    "5":{
+        "pt": "Sua conta está ativa, agora vou precisar que você me de acesso as suas operações na Binance",
+        "en": "Your account is active, now you need your access to me as your Binance operations"
+    },
+    "6":{
+        "pt": "Primeiro me envie sua API KEY",
+        "en": "First send me your API KEY"
+    },
+    "7":{
+        "pt": "Agora preciso de sua API SECRET",
+        "en": "Now i need your API SECRET"
+    },
+    "8":{
+        "pt": "Vou verificar as informações junto a exchange, só um minuto",
+        "en": "I'll check, just one minute."
+    },
+    "8.1":{
+        "pt": "Não consegui validar suas informações junto a binance, pode inserir sua API KEY mais uma vez?",
+        "en": "I was unable to validate your information with binance, can you enter your KEY API one more time?"
+    },
+    "9":{
+        "pt": "Seu cadastro está completo, para que eu começe a acompanhar suas ordens digite: \n add",
+        "en": "Your registration is complete, so that I start tracking your orders type: \n add"
+    }
+}
